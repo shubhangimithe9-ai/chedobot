@@ -1,0 +1,20 @@
+# Python build and cache artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Git and IDE configurations
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# Logs and scratch files
+*.log
+scratch/
+backup/
+node_modules/

@@ -1,0 +1,23 @@
+services:
+  chedobot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: chedobot-standalone:latest
+    container_name: chedobot_app
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - GRADIO_SERVER_NAME=0.0.0.0
+      - MODEL_PATH=/app/models/gamma-2b-chedotech-q4_k_m.gguf
+    volumes:
+      # Mount host Laya cache so the container uses existing ONNX weights without re-downloading
+      - ~/.cache/receptron-laya:/root/.cache/receptron-laya
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 90s
+    restart: unless-stopped

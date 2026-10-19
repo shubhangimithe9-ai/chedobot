@@ -1,0 +1,5 @@
+--extra-index-url https://abetlen.github.io/llama-cpp-python/wheels/cpu
+pyyaml>=6.0
+llama-cpp-python==0.2.90
+gradio>=4.44.0,<5.0.0
+huggingface-hub>=0.20.0,<0.25.0

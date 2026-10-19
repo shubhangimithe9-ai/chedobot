@@ -1,0 +1,9 @@
+# Pyrefly Configuration
+python-interpreter-path = "C:\\Users\\Shubhangi\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"
+site-package-path = [
+    "C:\\Users\\Shubhangi\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages"
+]
+search-path = [
+    ".",
+    "okf"
+]

@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large model files (>100MB GitHub limit)
+models/*.gguf
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.onnx
+
+# Node dependencies
+node_modules/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment & secrets
+.env
+*.env
+
+# IDE & editors
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+scratch/
+backup/

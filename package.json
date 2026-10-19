@@ -1,0 +1,25 @@
+{
+  "name": "chedobot-laya-bridge",
+  "version": "1.0.0",
+  "description": "Jev AI (@receptron/laya) System-1 Question Classifier and Router for Chedo Tech Chatbot",
+  "type": "module",
+  "main": "laya_bridge.mjs",
+  "scripts": {
+    "start": "node laya_bridge.mjs",
+    "health": "node laya_bridge.mjs --health",
+    "test:query": "node laya_bridge.mjs --query \"Who is the mentor for Python course?\""
+  },
+  "keywords": [
+    "jev",
+    "laya",
+    "system-1",
+    "classifier",
+    "router",
+    "chedotech"
+  ],
+  "author": "Chedo Tech",
+  "license": "MIT",
+  "dependencies": {
+    "@receptron/laya": "^0.1.2"
+  }
+}
