@@ -1,316 +1,79 @@
 ---
 type: Course
 title: Data Science, Machine Learning & Generative AI
-description: An advanced program covering data science, machine learning, deep learning, generative AI, large language models and practical AI applications.
-resource: https://www.chedo.in/courses/data-science-machine-learning-generative-ai.php
+description: Learn data science in Pune at Chedo Tech — Python, Pandas, machine learning
+  with scikit-learn, AI (NLP, transformers), statistics, Power BI and MLOps, fully
+  offline and project-driven.
+resource: https://chedo.in/courses/data-science.php
 tags:
-  - data-science
-  - machine-learning
-  - deep-learning
-  - artificial-intelligence
-  - generative-ai
-  - python
-  - llm
-  - nlp
-  - computer-vision
-
+- data-science
+- machine-learning
+- deep-learning
+- artificial-intelligence
+- generative-ai
+- python
+- llm
+- nlp
+- computer-vision
 sources:
-  - id: data-science-ml-genai-page
-    resource: https://www.chedo.in/courses/data-science-machine-learning-generative-ai.php
-    title: Chedo Tech Data Science, Machine Learning and Generative AI course page
+- id: data-science-ml-genai-page
+  resource: https://www.chedo.in/courses/data-science-machine-learning-generative-ai.php
+  title: Chedo Tech Data Science, Machine Learning and Generative AI course page
 ---
 
 # Data Science, Machine Learning & Generative AI
 
 ## Course Overview
 
-This program covers data science, machine learning, artificial
-intelligence, deep learning and Generative AI.
+From Python & Data Analytics to Machine Learning, Deep Learning, LLMs, RAG, AI Agents and Production AI Applications.
 
-The learning path progresses from data analysis and machine learning
-fundamentals to advanced AI concepts and practical Generative AI
-applications.
+Classroom batch sizes are strictly limited to ensure individual attention.
 
-## Technologies
+6 Months, Monday to Saturday batches
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-- Large Language Models
-- Computer Vision
-- AI APIs
+## Course Format
 
-## Learning Objectives
+- Offline classroom learning
+- Pune center
+- Hands-on coding and mentor guidance
+- Technical interview preparation
 
-Students learn to:
+## Course Objective
 
-- Analyze and prepare data
-- Build machine learning models
-- Understand model evaluation
-- Work with deep learning concepts
-- Understand NLP and computer vision
-- Understand Generative AI
-- Work with large language models
-- Build practical AI applications
+Develop strong real-world competence in Data Science, Machine Learning & Generative AI with comprehensive problem-solving skills.
 
-## Curriculum
+## Learning Path
 
-### Phase 1 — Python for Data Science
+1. MOD 01Python Programming Foundation
+2. PythonNumPyPandas
+3. MOD 02Data Structures & Algorithms
+4. AlgorithmsComplexity
+5. MOD 03Mathematics & Statistics for Data Science
+6. StatisticsLinear AlgebraProbability
+7. MOD 04Data Analytics & Visualization
+8. PandasNumPyMatplotlibSeaborn
+9. MOD 05SQL, NoSQL & Modern Databases
+10. MySQLPostgreSQLMongoDBSupabaseFirebase
+11. MOD 06Machine Learning (Flagship)
+12. Scikit-learnPythonModeling
+13. MOD 07Deep Learning Foundations
+14. PyTorchTensorFlowNeural Networks
+15. MOD 08Natural Language Processing
 
-- Python fundamentals
-- Functions
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-- Object-Oriented Programming
-- Modules
-- File handling
-- Exception handling
+## Key Highlights
 
-### Phase 2 — NumPy and Pandas
+- Direct mentorship under Chetan Dongarsane (Founder, Chedo Tech)
+- Structured offline classroom sessions in Pune
+- Hands-on milestone-based assignments
+- Official contact: +91 87931 00815
 
-#### NumPy
+## Frequently Asked Questions
 
-- Arrays
-- Array operations
-- Indexing
-- Slicing
-- Reshaping
-- Mathematical operations
+### Who is the mentor for this course?
+Chetan Dongarsane is the verified mentor and instructor at Chedo Tech.
 
-#### Pandas
+### Where are classes conducted?
+All training sessions are conducted in-person / offline at Chedo Tech, Pune.
 
-- Series
-- DataFrames
-- Data loading
-- Data filtering
-- Data transformation
-- Grouping
-- Aggregation
-- Missing values
-- Data cleaning
-
-### Phase 3 — Statistics and Data Analysis
-
-- Descriptive statistics
-- Mean
-- Median
-- Mode
-- Variance
-- Standard deviation
-- Probability fundamentals
-- Distributions
-- Correlation
-- Outliers
-- Exploratory Data Analysis
-
-### Phase 4 — Data Visualization
-
-- Data visualization principles
-- Matplotlib
-- Charts
-- Histograms
-- Scatter plots
-- Bar charts
-- Line charts
-- Box plots
-- Visual analysis
-
-### Phase 5 — Machine Learning
-
-#### Machine Learning Fundamentals
-
-- Supervised learning
-- Unsupervised learning
-- Training data
-- Testing data
-- Features
-- Target variables
-
-#### Regression
-
-- Linear Regression
-- Multiple Regression
-- Regression evaluation
-
-#### Classification
-
-- Classification concepts
-- Model training
-- Prediction
-- Classification evaluation
-
-#### Clustering
-
-- Clustering concepts
-- Unsupervised learning
-- Grouping data
-
-### Phase 6 — Machine Learning Workflow
-
-1. Define the problem
-2. Collect data
-3. Explore the dataset
-4. Clean the data
-5. Prepare features
-6. Split the data
-7. Train the model
-8. Evaluate the model
-9. Tune the model
-10. Interpret the results
-
-### Phase 7 — Deep Learning
-
-- Neural networks
-- Neurons
-- Layers
-- Activation functions
-- Forward propagation
-- Backpropagation
-- Loss functions
-- Optimization
-- Training neural networks
-
-### Phase 8 — Natural Language Processing
-
-- Text preprocessing
-- Tokenization
-- Text representation
-- Embeddings
-- Text classification
-- Sentiment analysis
-- Language-model concepts
-
-### Phase 9 — Computer Vision
-
-- Image representation
-- Image preprocessing
-- Image classification
-- Convolutional neural network concepts
-- Feature extraction
-- Computer vision applications
-
-### Phase 10 — Generative AI
-
-#### Generative AI Fundamentals
-
-- What is Generative AI?
-- Generative models
-- AI-generated text
-- AI-generated images
-- AI-generated content
-
-#### Large Language Models
-
-- LLM fundamentals
-- Tokens
-- Context
-- Embeddings
-- Transformer concepts
-- Prompting
-- Model inference
-
-### Phase 11 — Prompt Engineering
-
-- Prompt structure
-- Instruction design
-- Context
-- Examples
-- Few-shot prompting
-- Output formatting
-- Prompt evaluation
-
-### Phase 12 — Retrieval-Augmented Generation
-
-- Knowledge retrieval
-- Embeddings
-- Vector search concepts
-- Retrieval
-- Context augmentation
-- Grounded generation
-- RAG application architecture
-
-### Phase 13 — AI Application Development
-
-- AI APIs
-- Model integration
-- Chatbot development
-- Document-based AI
-- AI assistants
-- Application integration
-- Error handling
-- Evaluation
-
-## Practical Projects
-
-### Data Analysis Project
-
-A complete data analysis workflow involving:
-
-- Dataset preparation
-- Cleaning
-- Statistical analysis
-- Visualization
-- Insight generation
-
-### Machine Learning Project
-
-A machine learning application involving:
-
-- Feature preparation
-- Model training
-- Evaluation
-- Predictions
-
-### NLP Project
-
-An application involving:
-
-- Text processing
-- Text representation
-- Classification or sentiment analysis
-
-### Generative AI Application
-
-An application combining:
-
-- Prompt engineering
-- LLM interaction
-- Context
-- AI-generated responses
-
-### RAG-Based AI Application
-
-A knowledge-grounded application combining:
-
-- Document ingestion
-- Retrieval
-- Context
-- LLM generation
-
-## Course Focus
-
-- Python
-- Data Science
-- Statistics
-- Data Analysis
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- Generative AI
-- Large Language Models
-- Prompt Engineering
-- RAG
-- AI application development
-
-## Source
-
-https://www.chedo.in/courses/data-science-machine-learning-generative-ai.php
+### What is the fee structure?
+Course fees vary per batch and track. Please contact Chedo Tech at +91 87931 00815 for official fee details.

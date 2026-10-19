@@ -1,252 +1,79 @@
 ---
 type: Course
 title: Data Science Foundation
-description: Foundations of data science covering Python, data analysis, statistics, data visualization, exploratory data analysis and introductory machine learning concepts.
-resource: https://www.chedo.in/courses/data-science-foundation.php
+description: Beginner-friendly Data Science Foundation course in Pune at Chedo Tech
+  — Python basics, Pandas, NumPy, visualization, statistics and creative AI skills.
+  No coding experience needed.
+resource: https://chedo.in/courses/data-science-foundation.php
 tags:
-  - data-science
-  - python
-  - statistics
-  - data-analysis
-  - data-visualization
-  - pandas
-  - numpy
-  - exploratory-data-analysis
-  - machine-learning
-
+- data-science
+- python
+- statistics
+- data-analysis
+- data-visualization
+- pandas
+- numpy
+- exploratory-data-analysis
+- machine-learning
 sources:
-  - id: data-science-foundation-page
-    resource: https://www.chedo.in/courses/data-science-foundation.php
-    title: Chedo Tech Data Science Foundation course page
+- id: data-science-foundation-page
+  resource: https://www.chedo.in/courses/data-science-foundation.php
+  title: Chedo Tech Data Science Foundation course page
 ---
 
 # Data Science Foundation
 
 ## Course Overview
 
-Data Science Foundation introduces the core concepts required to work
-with data using Python.
+Start your data science journey — programming, data handling and AI-powered creativity. No prior coding needed.
 
-The course develops foundations in Python programming, statistics,
-data analysis, visualization and exploratory data analysis before
-progressing toward introductory machine learning concepts.
+Ask us for current batch schedules and details.
 
-## Technologies
+Absolute beginners to aspiring developers
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Data visualization
-- Statistics
-- Jupyter Notebook
-- Machine learning fundamentals
+## Course Format
 
-## Learning Objectives
+- Offline classroom learning
+- Pune center
+- Hands-on coding and mentor guidance
+- Technical interview preparation
 
-Students learn to:
+## Course Objective
 
-- Program using Python
-- Work with datasets
-- Clean and transform data
-- Analyze data
-- Understand basic statistics
-- Create visualizations
-- Perform exploratory data analysis
-- Understand machine learning fundamentals
+Develop strong real-world competence in Data Science Foundation with comprehensive problem-solving skills.
 
-## Curriculum
+## Learning Path
 
-### Module 1 — Python for Data Science
+1. Logical ThinkingHow to think about problems
+2. Python Problem SolvingSolving problems using Python
+3. Variables & LoopsStore and repeat
+4. FunctionsReusable logic
+5. Lists & DictionariesOrganizing data
+6. Real-World Logic BuildingEveryday problems in code
+7. Coding ChallengesStructured practice
+8. Understanding DataWhat data is and how it is used
+9. PandasData tables and manipulationNumPyNumerical computing
+10. PandasData tables and manipulation
+11. NumPyNumerical computing
+12. ChartsBasic plottingDashboardsSimple dashboard creation
+13. ChartsBasic plotting
+14. DashboardsSimple dashboard creation
+15. Mean & AveragesSimple data understanding
 
-- Python fundamentals
-- Variables
-- Data types
-- Operators
-- Conditions
-- Loops
-- Functions
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-- File handling
+## Key Highlights
 
-### Module 2 — NumPy
+- Direct mentorship under Chetan Dongarsane (Founder, Chedo Tech)
+- Structured offline classroom sessions in Pune
+- Hands-on milestone-based assignments
+- Official contact: +91 87931 00815
 
-- NumPy fundamentals
-- Arrays
-- Array creation
-- Array indexing
-- Array slicing
-- Array operations
-- Mathematical operations
-- Aggregations
-- Reshaping arrays
+## Frequently Asked Questions
 
-### Module 3 — Pandas
+### Who is the mentor for this course?
+Chetan Dongarsane is the verified mentor and instructor at Chedo Tech.
 
-- Series
-- DataFrames
-- Reading datasets
-- Inspecting data
-- Selecting columns
-- Filtering rows
-- Sorting
-- Grouping
-- Aggregation
-- Missing values
-- Data cleaning
-- Data transformation
+### Where are classes conducted?
+All training sessions are conducted in-person / offline at Chedo Tech, Pune.
 
-### Module 4 — Statistics
-
-#### Descriptive Statistics
-
-- Mean
-- Median
-- Mode
-- Range
-- Variance
-- Standard deviation
-
-#### Data Distribution
-
-- Distributions
-- Frequency
-- Percentiles
-- Outliers
-
-#### Statistical Concepts
-
-- Population
-- Sample
-- Sampling
-- Correlation
-- Basic probability
-
-### Module 5 — Data Visualization
-
-#### Visualization Fundamentals
-
-- Choosing appropriate charts
-- Understanding visual patterns
-- Communicating data insights
-
-#### Charts
-
-- Line charts
-- Bar charts
-- Histograms
-- Scatter plots
-- Box plots
-
-#### Visualization Tools
-
-- Matplotlib
-- Basic data visualization workflows
-
-### Module 6 — Exploratory Data Analysis
-
-- Understanding datasets
-- Dataset inspection
-- Missing-value analysis
-- Duplicate detection
-- Outlier identification
-- Feature exploration
-- Correlation analysis
-- Visualization-driven analysis
-- Finding patterns in data
-
-### Module 7 — Data Cleaning and Preparation
-
-- Handling missing values
-- Removing duplicates
-- Data type conversion
-- String cleaning
-- Data transformation
-- Encoding concepts
-- Feature preparation
-
-### Module 8 — Introduction to Machine Learning
-
-#### Machine Learning Concepts
-
-- What is machine learning?
-- Supervised learning
-- Unsupervised learning
-- Training data
-- Testing data
-- Features
-- Target variables
-
-#### Basic Algorithms
-
-- Linear Regression
-- Classification concepts
-- Clustering concepts
-- Model evaluation fundamentals
-
-### Module 9 — Data Science Workflow
-
-A typical workflow includes:
-
-1. Define the problem
-2. Collect data
-3. Load the dataset
-4. Explore the data
-5. Clean the data
-6. Analyze the data
-7. Visualize patterns
-8. Prepare features
-9. Apply a model
-10. Evaluate results
-11. Communicate findings
-
-## Practical Projects
-
-### Dataset Analysis Project
-
-Students work with a dataset to:
-
-- Load data
-- Inspect records
-- Clean missing values
-- Analyze columns
-- Calculate statistics
-- Visualize patterns
-
-### Exploratory Data Analysis Project
-
-A complete EDA workflow using:
-
-- Pandas
-- NumPy
-- Matplotlib
-- Statistical analysis
-
-### Beginner Machine Learning Project
-
-A project introducing:
-
-- Feature selection
-- Training and testing
-- Basic model fitting
-- Model evaluation
-
-## Course Focus
-
-- Python
-- NumPy
-- Pandas
-- Statistics
-- Data analysis
-- Data cleaning
-- Data visualization
-- Exploratory Data Analysis
-- Machine learning fundamentals
-- Practical data projects
-
-## Source
-
-https://www.chedo.in/courses/data-science-foundation.php
+### What is the fee structure?
+Course fees vary per batch and track. Please contact Chedo Tech at +91 87931 00815 for official fee details.

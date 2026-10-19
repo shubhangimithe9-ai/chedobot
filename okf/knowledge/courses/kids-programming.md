@@ -1,145 +1,77 @@
 ---
 type: Course
 title: Kids Programming
-description: Programming fundamentals for children focusing on computational thinking, logic building, problem solving and beginner-friendly coding concepts.
-resource: https://www.chedo.in/courses/kids-programming.php
+description: Kids programming course in Pune at Chedo Tech for ages 7–16 — Scratch,
+  Python, web basics, games and AI through fun, level-based, practical learning with
+  real projects.
+resource: https://chedo.in/courses/kids-programming.php
 tags:
-  - kids
-  - programming
-  - coding
-  - logic-building
-  - problem-solving
-  - computational-thinking
-  - beginner-programming
-
+- kids
+- programming
+- coding
+- logic-building
+- problem-solving
+- computational-thinking
+- beginner-programming
 sources:
-  - id: kids-programming-page
-    resource: https://www.chedo.in/courses/kids-programming.php
-    title: Chedo Tech Kids Programming course page
+- id: kids-programming-page
+  resource: https://www.chedo.in/courses/kids-programming.php
+  title: Chedo Tech Kids Programming course page
 ---
 
 # Kids Programming
 
 ## Course Overview
 
-Kids Programming introduces children to programming and computational
-thinking through beginner-friendly coding concepts and practical
-problem-solving activities.
+Step-by-step learning for ages 7–16 — from basics to games, AI and real projects.
 
-The course focuses on developing logical thinking, creativity and
-confidence with programming.
+Ask us for current batch schedules and details.
 
-## Learning Objectives
+Absolute beginners to aspiring developers
 
-Students learn to:
+## Course Format
 
-- Understand basic programming concepts
-- Develop logical thinking
-- Break problems into smaller steps
-- Understand algorithms
-- Use programming constructs
-- Build simple programs
-- Solve problems through coding
-- Develop computational thinking
+- Offline classroom learning
+- Pune center
+- Hands-on coding and mentor guidance
+- Technical interview preparation
 
-## Curriculum
+## Course Objective
 
-### Module 1 — Introduction to Programming
+Develop strong real-world competence in Kids Programming with comprehensive problem-solving skills.
 
-- What is programming?
-- What is a computer program?
-- Programming languages
-- Algorithms
-- Step-by-step problem solving
-- Computational thinking
+## Learning Path
 
-### Module 2 — Programming Fundamentals
+1. Computer BasicsTyping, mouse, file handling
+2. Logic BuildingPuzzles, patterns & thinking skills
+3. Block CodingScratch drag-drop coding
+4. First GameSimple animations & games
+5. Python BasicsVariables, loops & conditions
+6. Problem SolvingFun coding challenges
+7. Web BasicsHTML & simple websites
+8. Mini ProjectsSmall apps built with new skills
+9. Game DevelopmentAdvanced games with logic
+10. Intro to AIBasic AI concepts for kids
+11. Creative ToolsVideos and posters using AI
+12. App IdeasThink & design simple apps
+13. AI ToolsUse AI tools safely & smartly
+14. Creativity ProjectsBuild your own unique ideas
+15. Final ProjectA complete working project
 
-- Variables
-- Data types
-- Values
-- Input and output
-- Basic operators
+## Key Highlights
 
-### Module 3 — Conditions
+- Direct mentorship under Chetan Dongarsane (Founder, Chedo Tech)
+- Structured offline classroom sessions in Pune
+- Hands-on milestone-based assignments
+- Official contact: +91 87931 00815
 
-- Decision making
-- If statements
-- If-else statements
-- Multiple conditions
-- Logical operators
+## Frequently Asked Questions
 
-### Module 4 — Loops
+### Who is the mentor for this course?
+Chetan Dongarsane is the verified mentor and instructor at Chedo Tech.
 
-- Repetition
-- For loops
-- While loops
-- Nested loops
-- Pattern-based problems
+### Where are classes conducted?
+All training sessions are conducted in-person / offline at Chedo Tech, Pune.
 
-### Module 5 — Functions
-
-- What is a function?
-- Creating functions
-- Parameters
-- Return values
-- Reusable code
-
-### Module 6 — Problem Solving
-
-- Breaking problems into steps
-- Identifying patterns
-- Algorithm development
-- Debugging
-- Logical reasoning
-- Problem-solving exercises
-
-### Module 7 — Beginner Projects
-
-Students apply programming concepts through simple projects.
-
-Possible projects include:
-
-- Number guessing activity
-- Calculator
-- Quiz application
-- Pattern programs
-- Simple games
-- Interactive coding activities
-
-## Learning Approach
-
-The learning approach focuses on:
-
-- Beginner-friendly explanations
-- Practical coding
-- Logical thinking
-- Problem solving
-- Hands-on activities
-- Small programming projects
-
-## Skills Developed
-
-Students develop:
-
-- Programming fundamentals
-- Computational thinking
-- Logical reasoning
-- Problem-solving skills
-- Algorithmic thinking
-- Debugging skills
-- Basic project development
-
-## Course Focus
-
-- Programming fundamentals
-- Coding
-- Logic building
-- Computational thinking
-- Algorithms
-- Problem solving
-- Beginner projects
-
-## Source
-
-https://www.chedo.in/courses/kids-programming.php
+### What is the fee structure?
+Course fees vary per batch and track. Please contact Chedo Tech at +91 87931 00815 for official fee details.

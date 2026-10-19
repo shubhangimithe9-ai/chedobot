@@ -1,174 +1,78 @@
 ---
 type: Course
 title: UI/UX Design
-description: UI and UX design covering design principles, user research, wireframing, prototyping, visual design and user-centered digital product design.
-resource: https://www.chedo.in/courses/ui-ux-design.php
+description: Learn UI/UX design in Pune at Chedo Tech — Figma, Canva, Photoshop, CorelDRAW
+  and AI design tools, plus branding, prototypes and design systems, fully hands-on.
+resource: https://chedo.in/courses/ui-ux-design.php
 tags:
-  - ui
-  - ux
-  - ui-design
-  - ux-design
-  - user-research
-  - wireframing
-  - prototyping
-  - visual-design
-  - user-experience
-
+- ui
+- ux
+- ui-design
+- ux-design
+- user-research
+- wireframing
+- prototyping
+- visual-design
+- user-experience
 sources:
-  - id: ui-ux-design-page
-    resource: https://www.chedo.in/courses/ui-ux-design.php
-    title: Chedo Tech UI/UX Design course page
+- id: ui-ux-design-page
+  resource: https://www.chedo.in/courses/ui-ux-design.php
+  title: Chedo Tech UI/UX Design course page
 ---
 
 # UI/UX Design
 
 ## Course Overview
 
-UI/UX Design focuses on designing digital products and interfaces
-that are usable, accessible and visually clear.
+Figma, Canva, Photoshop, CorelDRAW and AI-powered design workflows — hands-on and project-driven.
 
-The course covers user experience principles, user research,
-information architecture, wireframing, visual design, prototyping
-and usability concepts.
+Ask us for current batch schedules and details.
 
-## Learning Objectives
+Absolute beginners to aspiring developers
 
-Students learn to:
+## Course Format
 
-- Understand UI and UX fundamentals
-- Research user needs
-- Define user problems
-- Create user flows
-- Organize information
-- Create wireframes
-- Design user interfaces
-- Build prototypes
-- Apply visual design principles
-- Evaluate usability
+- Offline classroom learning
+- Pune center
+- Hands-on coding and mentor guidance
+- Technical interview preparation
 
-## Curriculum
+## Course Objective
 
-### Module 1 — Introduction to UI/UX
+Develop strong real-world competence in UI/UX Design with comprehensive problem-solving skills.
 
-- What is UI?
-- What is UX?
-- Difference between UI and UX
-- User-centered design
-- Design thinking
-- Digital product design
+## Learning Path
 
-### Module 2 — User Research
+1. Designing Graphics & Social PostsReady-to-use creatives
+2. Brand KitsConsistent templates
+3. Using Templates & Customizing LayoutsSpeed + control
+4. Quick Visual Assets for UI/UXIcons, banners, elements
+5. Frames, Auto-Layout & ComponentsThe Figma fundamentals
+6. Prototyping ScreensMobile and web flows
+7. Variants & Design SystemsScalable components
+8. Team CollaborationWorking together
+9. Image Editing & RetouchingUI assets that look right
+10. Layers & MasksNon-destructive workflow
+11. Export for Web & MobileShip the right formats
+12. Vector GraphicsIcons, logos & branding
+13. Preparing VisualsFor UI use and print media
+14. Generative UI ScreensFrom text prompts to screens
+15. AI-Assisted Layouts & Color PalettesSpeed up exploration
 
-- Understanding users
-- Identifying user needs
-- User interviews
-- User personas
-- User journeys
-- Problem identification
-- Research insights
+## Key Highlights
 
-### Module 3 — Information Architecture
+- Direct mentorship under Chetan Dongarsane (Founder, Chedo Tech)
+- Structured offline classroom sessions in Pune
+- Hands-on milestone-based assignments
+- Official contact: +91 87931 00815
 
-- Content organization
-- Navigation
-- Information hierarchy
-- User flows
-- Site structure
-- Screen relationships
+## Frequently Asked Questions
 
-### Module 4 — Wireframing
+### Who is the mentor for this course?
+Chetan Dongarsane is the verified mentor and instructor at Chedo Tech.
 
-- Low-fidelity wireframes
-- High-fidelity wireframes
-- Layout planning
-- Screen structure
-- User flow visualization
-- Wireframe iteration
+### Where are classes conducted?
+All training sessions are conducted in-person / offline at Chedo Tech, Pune.
 
-### Module 5 — Visual Design
-
-- Design principles
-- Typography
-- Color
-- Spacing
-- Alignment
-- Visual hierarchy
-- Composition
-- Consistency
-
-### Module 6 — User Interface Design
-
-- Interface components
-- Buttons
-- Forms
-- Navigation
-- Cards
-- Lists
-- Input fields
-- Responsive interface concepts
-- Design systems
-
-### Module 7 — Prototyping
-
-- Prototype concepts
-- Interactive screens
-- Screen transitions
-- User flows
-- Interaction design
-- Prototype testing
-
-### Module 8 — Usability
-
-- Usability principles
-- Usability testing
-- Identifying usability problems
-- User feedback
-- Design iteration
-- Accessibility concepts
-
-### Module 9 — Design Projects
-
-Students apply UI/UX principles to practical digital products.
-
-Projects may include:
-
-- Website interface
-- Mobile application interface
-- Dashboard
-- E-commerce interface
-- Portfolio website
-- Application prototype
-
-## Design Process
-
-A typical design workflow includes:
-
-1. Understand the problem
-2. Research users
-3. Define requirements
-4. Create user personas
-5. Develop user flows
-6. Create wireframes
-7. Design the interface
-8. Build a prototype
-9. Test usability
-10. Improve the design
-
-## Course Focus
-
-- UI design
-- UX design
-- User research
-- User-centered design
-- Information architecture
-- Wireframing
-- User flows
-- Visual design
-- Prototyping
-- Usability
-- Responsive design
-- Digital product design
-
-## Source
-
-https://www.chedo.in/courses/ui-ux-design.php
+### What is the fee structure?
+Course fees vary per batch and track. Please contact Chedo Tech at +91 87931 00815 for official fee details.

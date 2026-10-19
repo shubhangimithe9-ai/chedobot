@@ -129,6 +129,24 @@ with gr.Blocks(title="Chedo Tech AI Assistant") as demo:
         with gr.Row():
             clear_btn = gr.Button("🗑️ Clear Chat", variant="secondary", size="sm")
 
+        with gr.Accordion("⚙️ Live Website Sync & Knowledge Base Management", open=False):
+            with gr.Row():
+                sync_status = gr.Textbox(
+                    label="Sync Status",
+                    value="Knowledge Base is connected with live chedo.in pages.",
+                    interactive=False,
+                    scale=4
+                )
+                sync_btn = gr.Button("🔄 Sync Website Now", variant="secondary", scale=1)
+
+            def handle_sync():
+                from scraper.sync import sync_knowledge
+                stats = sync_knowledge(force=False)
+                reloaded = bot.reload_knowledge()
+                return f"✅ Synced: {stats['scanned']} scanned ({stats['updated']} updated, {stats['skipped']} unchanged, {stats['errors']} errors). In-memory knowledge reloaded ({reloaded} records)."
+
+            sync_btn.click(handle_sync, outputs=[sync_status])
+
         gr.Examples(
             examples=[
                 "What is Chedo Tech?",

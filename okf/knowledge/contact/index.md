@@ -1,48 +1,41 @@
 ---
 type: ContactInformation
 title: Chedo Tech Contact Information
-description: Official contact information and office details for Chedo Tech.
-resource: https://www.chedo.in/
+description: Contact Chedo Tech in Pune to enroll in offline programming courses —
+  C, Python, Java, Full Stack, Data Science, Mobile and Kids Programming. WhatsApp,
+  call or visit.
+resource: https://chedo.in/contact.php
 tags:
-  - contact
-  - chedo-tech
-  - phone
-  - office
-  - location
-
+- contact
+- chedo-tech
+- phone
+- office
+- location
 sources:
-  - id: chedo-contact
-    resource: https://www.chedo.in/
-    title: Chedo Tech official website
+- id: chedo-contact
+  resource: https://www.chedo.in/
+  title: Chedo Tech official website
 ---
 
 # Chedo Tech Contact Information
 
-## Contact
+## Official Contact Information
 
-For enquiries related to Chedo Tech courses and programs, use the
-official contact information provided by Chedo Tech.
+- Phone: +918793100815
+- WhatsApp: +918793100815
+- Email: chetan2469@gmail.com
+- Website: https://www.chedo.in/
 
-## Phone
+## Official Communication Channels
 
-+91 87931 00815
+Chedo Tech maintains these direct contact and support channels:
 
-## Organization
+- Mobile & WhatsApp: +918793100815
+- Email Inquiries: chetan2469@gmail.com
+- Official Website: https://www.chedo.in/
 
-Chedo Tech
+## Location
 
-## Website
+📍 Visit Center Ultima Business Center, Kondhwa Budruk, Pune. Open Maps
+Offline classroom training sessions and centers are located in Pune, Maharashtra.
 
-https://www.chedo.in/
-
-## Contact Guidance
-
-When a user asks for Chedo Tech contact information, provide the
-available official contact details from this knowledge base.
-
-If a requested contact detail is not present in the knowledge base,
-do not invent it.
-
-## Source
-
-https://www.chedo.in/

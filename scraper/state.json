@@ -1,0 +1,104 @@
+{
+  "https://chedo.in/about.php": {
+    "content_hash": "450885e654cd17fcddcc85f14679f24404da74e5d6030931449d52c900872713",
+    "last_updated": "2026-10-19T10:20:55Z",
+    "file": "okf/knowledge/about/index.md",
+    "title": "About Chedo Tech"
+  },
+  "https://chedo.in/contact.php": {
+    "content_hash": "363acaa562970494252af93bc1b067bf2a3088ad14259b317a4d96a36417527c",
+    "last_updated": "2026-10-19T10:20:57Z",
+    "file": "okf/knowledge/contact/index.md",
+    "title": "Chedo Tech Contact Information"
+  },
+  "https://chedo.in/courses/python-dsa.php": {
+    "content_hash": "f9aa8d10019f9df717eb97a543643635009e564d8b25dfe32008d92e2a491253",
+    "last_updated": "2026-10-19T10:20:59Z",
+    "file": "okf/knowledge/courses/python-dsa.md",
+    "title": "Python + DSA"
+  },
+  "https://chedo.in/courses/java-dsa.php": {
+    "content_hash": "d5701ae5e1723df75045da2973a14375a1ff89318dd658cb7d090e6b3584c54b",
+    "last_updated": "2026-10-19T10:21:01Z",
+    "file": "okf/knowledge/courses/java-dsa.md",
+    "title": "Java + DSA"
+  },
+  "https://chedo.in/courses/c-cpp-dsa.php": {
+    "content_hash": "4da4e7d5d0c10cabcb01f5e8c70cc8176a9e336d1b9fa7f64b7da4515c7a37cf",
+    "last_updated": "2026-10-19T10:21:03Z",
+    "file": "okf/knowledge/courses/c-cpp-dsa.md",
+    "title": "C + C++ + DSA"
+  },
+  "https://chedo.in/courses/c-programming.php": {
+    "content_hash": "00bc22365dcedbac18094a56889da35deb118752790bd605517bc47f6d5ef513",
+    "last_updated": "2026-10-19T10:21:05Z",
+    "file": "okf/knowledge/courses/c-programming.md",
+    "title": "C Programming"
+  },
+  "https://chedo.in/courses/cpp-programming.php": {
+    "content_hash": "9e00d247a88bfe3a863d2b42d7fe0163c80ff1cff652e3320004bb476879b7ab",
+    "last_updated": "2026-10-19T10:21:08Z",
+    "file": "okf/knowledge/courses/cpp-programming.md",
+    "title": "C++ Programming"
+  },
+  "https://chedo.in/courses/java-programming.php": {
+    "content_hash": "50e466008dc4a30fee0303006721bc865b990c0f2cf8db8938a101419829cceb",
+    "last_updated": "2026-10-19T10:21:12Z",
+    "file": "okf/knowledge/courses/java-programming.md",
+    "title": "Java Programming"
+  },
+  "https://chedo.in/courses/python-programming.php": {
+    "content_hash": "cb43b6024adab5ecf2f22a1111df11ccb231e6a57bd47024c3308a5dce421011",
+    "last_updated": "2026-10-19T10:21:14Z",
+    "file": "okf/knowledge/courses/python-programming.md",
+    "title": "Python Programming"
+  },
+  "https://chedo.in/courses/data-structures-algorithms.php": {
+    "content_hash": "3372c23041614bfa7b19189de9f9f6cdcb86986cfc210b398c340b05336e2a55",
+    "last_updated": "2026-10-19T10:21:17Z",
+    "file": "okf/knowledge/courses/dsa.md",
+    "title": "Data Structures & Algorithms"
+  },
+  "https://chedo.in/courses/mern-full-stack.php": {
+    "content_hash": "4c7a049cce5085f3f6127d64b3bf3f1dd04263ecdea8141b7f28f16c8af43906",
+    "last_updated": "2026-10-19T10:21:21Z",
+    "file": "okf/knowledge/courses/mern-full-stack.md",
+    "title": "MERN Full Stack Development"
+  },
+  "https://chedo.in/courses/java-full-stack.php": {
+    "content_hash": "e87013c37cb647f664a721be6b22ef9261297d59cc605a5598bda656be94041c",
+    "last_updated": "2026-10-19T10:21:23Z",
+    "file": "okf/knowledge/courses/java-full-stack.md",
+    "title": "Java Full Stack Development"
+  },
+  "https://chedo.in/courses/mobile-app-development.php": {
+    "content_hash": "3dce40b44078e0ff1194f27b2f488d9d9e8a1df11abedc4ebe9c0a55be26a1bb",
+    "last_updated": "2026-10-19T10:21:28Z",
+    "file": "okf/knowledge/courses/mobile-app-flutter.md",
+    "title": "Mobile App Development (Flutter)"
+  },
+  "https://chedo.in/courses/data-science-foundation.php": {
+    "content_hash": "523d5e6af84b8a2d0a81a2af381ffb9a8189b7a78518ce2d9b927c82796ab973",
+    "last_updated": "2026-10-19T10:21:31Z",
+    "file": "okf/knowledge/courses/data-science-foundation.md",
+    "title": "Data Science Foundation"
+  },
+  "https://chedo.in/courses/data-science.php": {
+    "content_hash": "b9a3aa4b5684fa4de30ce7baec1963440b4e971a65b3cf879232d1b55001e453",
+    "last_updated": "2026-10-19T10:21:35Z",
+    "file": "okf/knowledge/courses/data-science-ml-genai.md",
+    "title": "Data Science, Machine Learning & Generative AI"
+  },
+  "https://chedo.in/courses/ui-ux-design.php": {
+    "content_hash": "26ae1ea0dbf665621d2ec4962025a134b878e9ab93a41081e211a3076637f0ab",
+    "last_updated": "2026-10-19T10:21:37Z",
+    "file": "okf/knowledge/courses/ui-ux-design.md",
+    "title": "UI/UX Design"
+  },
+  "https://chedo.in/courses/kids-programming.php": {
+    "content_hash": "1f447db4cd8949ef0233e872ab1fbc76b2fd823f0d85b47c320496e74c20c265",
+    "last_updated": "2026-10-19T10:21:39Z",
+    "file": "okf/knowledge/courses/kids-programming.md",
+    "title": "Kids Programming"
+  }
+}

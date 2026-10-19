@@ -182,6 +182,17 @@ class ChedoBot:
         self._response_cache = {}
         print("ChedoBot initialized successfully with Jev/Laya + OKF + Gamma 2B.\n")
 
+    def reload_knowledge(self) -> int:
+        """
+        Reload OKF knowledge records from disk and reset response cache
+        without needing to reload the LLM model weights.
+        """
+        print("[ChedoBot] Reloading OKF Knowledge Base from disk...")
+        self.records = load_knowledge()
+        self._response_cache.clear()
+        print(f"[ChedoBot] Reloaded {len(self.records)} knowledge records successfully.")
+        return len(self.records)
+
     def _normalize_key(self, query: str) -> str:
         """Normalizes a query string for high-hit-rate cache matching."""
         q = query.strip().lower()

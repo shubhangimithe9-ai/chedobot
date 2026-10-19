@@ -1,75 +1,41 @@
 ---
 type: Organization
 title: About Chedo Tech
-description: Information about Chedo Tech, its educational focus, programming training and technology learning programs.
-resource: https://www.chedo.in/
+description: Chedo Tech is a Pune-based programming institute teaching offline, practical,
+  project-based programming since 2015 — fundamentals to full stack, with personal
+  guidance.
+resource: https://chedo.in/about.php
 tags:
-  - chedo-tech
-  - education
-  - programming
-  - technology
-  - training
-  - courses
-
+- chedo-tech
+- education
+- programming
+- technology
+- training
+- courses
 sources:
-  - id: chedo-home
-    resource: https://www.chedo.in/
-    title: Chedo Tech official website
+- id: chedo-home
+  resource: https://www.chedo.in/
+  title: Chedo Tech official website
 ---
 
 # About Chedo Tech
 
 ## Overview
 
-Chedo Tech is a technology education and training organization
-focused on programming, software development and technology-related
-learning.
+Chedo Tech is a programming institute & app development center in Pune that teaches programming the way it is actually learned — offline, hands-on and project-based, from fundamentals to full stack.
 
-The organization provides courses and programs covering programming,
-data structures and algorithms, web development, mobile development,
-data science, artificial intelligence and design.
+Since 2015, Chedo Tech has been helping students go from zero knowledge of coding to building real projects. Our classrooms are offline — whiteboard teaching, live coding, and hands-on practice with the instructor beside you. No screen-sharing, real learning.
 
-## Areas of Learning
+We believe a well-organized curriculum and personal guidance matter as much as the topics themselves. That is why every course follows a structured path from basics to advanced topics, with printed notes, assignments, coding tests and project checkpoints at every milestone.
 
-Chedo Tech provides learning programs in areas including:
+Our programs span programming languages, full stack development, data science, mobile app development, UI/UX design and kids programming — so there is a clear next step no matter where you start.
 
-- Programming
-- Data Structures and Algorithms
-- Full Stack Web Development
-- Mobile App Development
-- Data Science
-- Machine Learning
-- Generative AI
-- UI/UX Design
-- Programming for Kids
+Six commitments that shape how every course is taught.
 
-## Learning Focus
+## Mentor & Leadership
 
-Chedo Tech's course offerings focus on developing practical
-technology skills through structured learning and programming
-practice.
+- Founder & Lead Mentor: Chetan Dongarsane
+- Educational Focus: Practical programming, DSA, Full-stack development, and Generative AI.
+- Location: Pune, Maharashtra, India.
+- Official Website: https://www.chedo.in/
 
-## Courses
-
-The Chedo Tech knowledge base contains information about these
-courses and programs:
-
-- Java + DSA
-- Python + DSA
-- C + C++ + DSA
-- C Programming
-- C++ Programming
-- Java Programming
-- Python Programming
-- Data Structures & Algorithms
-- MERN Stack Web Development
-- Java Full Stack Development
-- Mobile App Development (Flutter)
-- Data Science Foundation
-- Data Science, Machine Learning & Generative AI
-- UI/UX Design
-- Kids Programming
-
-## Official Website
-
-https://www.chedo.in/

@@ -1,266 +1,80 @@
 ---
 type: Course
 title: Java Full Stack Development
-description: Full-stack web development using Java, Spring Boot, REST APIs, databases, frontend technologies and application development.
-resource: https://www.chedo.in/courses/java-full-stack.php
+description: Learn Java full stack development in Pune at Chedo Tech — Core Java,
+  Spring Boot, REST APIs, JPA/Hibernate, MySQL, MongoDB, React basics, Docker and
+  deployment.
+resource: https://chedo.in/courses/java-full-stack.php
 tags:
-  - java
-  - full-stack
-  - spring
-  - spring-boot
-  - rest-api
-  - sql
-  - html
-  - css
-  - javascript
-  - web-development
-
+- java
+- full-stack
+- spring
+- spring-boot
+- rest-api
+- sql
+- html
+- css
+- javascript
+- web-development
 sources:
-  - id: java-full-stack-page
-    resource: https://www.chedo.in/courses/java-full-stack.php
-    title: Chedo Tech Java Full Stack Development course page
+- id: java-full-stack-page
+  resource: https://www.chedo.in/courses/java-full-stack.php
+  title: Chedo Tech Java Full Stack Development course page
 ---
 
 # Java Full Stack Development
 
 ## Course Overview
 
-Java Full Stack Development focuses on building complete web applications
-using Java for backend development together with frontend technologies,
-databases and REST APIs.
+Master Java, Spring Boot, React, Databases, REST APIs, Security, Microservices, DevOps, Cloud and modern AI-enabled application development through practical projects.
 
-The course develops skills across frontend, backend, database and
-application integration.
+Classroom batch sizes are strictly limited to ensure individual attention.
 
-## Technologies
+Full Stack Career Path, Daily Batches
 
-- Java
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Spring
-- Spring Boot
-- REST APIs
-- Database technologies
-- Git and GitHub
+## Course Format
 
-## Learning Objectives
+- Offline classroom learning
+- Pune center
+- Hands-on coding and mentor guidance
+- Technical interview preparation
 
-Students learn to:
+## Course Objective
 
-- Build web interfaces
-- Program using Java
-- Develop backend applications
-- Build REST APIs
-- Work with relational databases
-- Connect frontend and backend applications
-- Structure full-stack applications
-- Build practical web applications
+Develop strong real-world competence in Java Full Stack Development with comprehensive problem-solving skills.
 
-## Curriculum
+## Learning Path
 
-### Module 1 — Web Fundamentals
+1. PHASE 1 — Java Foundation
+2. MOD 01Java Programming Foundation
+3. MOD 02Object-Oriented Programming
+4. MOD 03Advanced & Modern Java
+5. MOD 04Data Structures & Algorithms
+6. PHASE 2 — Database & Web Foundation
+7. MOD 05SQL & Databases
+8. MOD 06JDBC + JPA + Hibernate
+9. MOD 07Web Development Foundation
+10. MOD 08React Frontend Development
+11. PHASE 3 — Spring Boot Backend
+12. MOD 09Spring Framework
+13. MOD 10Spring Boot (Flagship)
+14. MOD 11REST API Development (Flagship)
+15. MOD 12Spring Security & Authentication (Flagship)
 
-- Internet and web fundamentals
-- Client-server architecture
-- HTTP and HTTPS
-- HTML
-- Semantic HTML
-- Forms
-- CSS
-- Selectors
-- Box model
-- Flexbox
-- Responsive layouts
+## Key Highlights
 
-### Module 2 — JavaScript Fundamentals
+- Direct mentorship under Chetan Dongarsane (Founder, Chedo Tech)
+- Structured offline classroom sessions in Pune
+- Hands-on milestone-based assignments
+- Official contact: +91 87931 00815
 
-- JavaScript syntax
-- Variables
-- Data types
-- Operators
-- Conditions
-- Loops
-- Functions
-- Arrays
-- Objects
-- DOM
-- Events
-- JSON
-- Fetch API
-- Asynchronous programming
+## Frequently Asked Questions
 
-### Module 3 — Core Java
+### Who is the mentor for this course?
+Chetan Dongarsane is the verified mentor and instructor at Chedo Tech.
 
-- Java syntax
-- Variables
-- Data types
-- Operators
-- Conditions
-- Loops
-- Arrays
-- Strings
-- Methods
-- Classes
-- Objects
-- Constructors
+### Where are classes conducted?
+All training sessions are conducted in-person / offline at Chedo Tech, Pune.
 
-### Module 4 — Object-Oriented Java
-
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- Interfaces
-- Method overloading
-- Method overriding
-- Packages
-- Access modifiers
-- Exception handling
-
-### Module 5 — Java Collections and Modern Java
-
-- List
-- Set
-- Map
-- Queue
-- Generics
-- Comparable
-- Comparator
-- Lambda expressions
-- Functional interfaces
-- Stream API
-
-### Module 6 — SQL and Databases
-
-- Database fundamentals
-- Tables
-- Rows and columns
-- Primary keys
-- Foreign keys
-- SQL queries
-- SELECT
-- INSERT
-- UPDATE
-- DELETE
-- Joins
-- Aggregation
-- Database relationships
-
-### Module 7 — Spring Framework
-
-- Spring fundamentals
-- Dependency Injection
-- Inversion of Control
-- Beans
-- Configuration
-- Application structure
-
-### Module 8 — Spring Boot
-
-- Spring Boot fundamentals
-- Project setup
-- Configuration
-- Controllers
-- Services
-- Repositories
-- Dependency injection
-- Application properties
-
-### Module 9 — REST APIs
-
-- REST architecture
-- HTTP methods
-- GET
-- POST
-- PUT
-- DELETE
-- Request parameters
-- Request bodies
-- Response bodies
-- HTTP status codes
-- Exception handling
-- API validation
-
-### Module 10 — Database Integration
-
-- Connecting applications to databases
-- Entity modelling
-- Repository patterns
-- CRUD operations
-- Database queries
-- Application persistence
-
-### Module 11 — Frontend and Backend Integration
-
-- Connecting frontend applications to APIs
-- Sending requests
-- Receiving JSON responses
-- Form submission
-- Validation
-- Error handling
-- Authentication concepts
-- Protected application functionality
-
-### Module 12 — Development Tools and Deployment
-
-- Git
-- GitHub
-- Project structure
-- Debugging
-- Testing concepts
-- Environment configuration
-- Application builds
-- Deployment concepts
-
-## Practical Projects
-
-### Java Web Application
-
-A web application combining:
-
-- HTML
-- CSS
-- JavaScript
-- Java backend
-- Database
-
-### REST API Application
-
-An application implementing:
-
-- CRUD operations
-- REST endpoints
-- Database persistence
-- Request validation
-- Error handling
-
-### Full-Stack Capstone
-
-A complete application integrating:
-
-- Frontend
-- Java backend
-- Spring Boot
-- REST APIs
-- Database
-- Git/GitHub
-
-## Course Focus
-
-- Java programming
-- Object-Oriented Programming
-- Java Collections
-- SQL
-- Spring
-- Spring Boot
-- REST APIs
-- Database integration
-- Frontend development
-- Full-stack application development
-- Git and GitHub
-
-## Source
-
-https://www.chedo.in/courses/java-full-stack.php
+### What is the fee structure?
+Course fees vary per batch and track. Please contact Chedo Tech at +91 87931 00815 for official fee details.
