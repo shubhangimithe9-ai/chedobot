@@ -9,7 +9,10 @@ BASE_DIR = Path(__file__).resolve().parent
 if str(BASE_DIR) not in sys.path:
     sys.path.insert(0, str(BASE_DIR))
 
-from llama_cpp import Llama
+try:
+    from llama_cpp.llama import Llama
+except ImportError:
+    from llama_cpp import Llama  # type: ignore[attr-defined]
 from huggingface_hub import hf_hub_download
 from okf.okf_query_engine import load_knowledge, retrieve_knowledge, find_matching_section, COURSE_FILES
 from laya_classifier import LayaClassifier
